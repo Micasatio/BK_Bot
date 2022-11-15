@@ -2,9 +2,10 @@ let handler = async (m, { conn }) => {
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 m.reply(`
-*┌─〔 ＡＣＴＩＶＯ 〕*
-*├ 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
-*└───────────────*
+*Uepaaa te pica mucho el ano ?*
+Xd ya 
+  *El Bot estuvo activo:* ${uptime}*
+
 `.trim())}
 handler.help = ['runtime']
 handler.tags = ['info']
