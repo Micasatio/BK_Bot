@@ -1,7 +1,7 @@
-# `💫 𝑆𝐼𝑀𝑃𝐿𝐸 - 𝐵𝑂𝑇 💫`
+# 👻 BLACK_BOT-MD 👻
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+### `—◉ 😈 DUDAS SOBRE EL BOT?, CONTACTAME 😈`
+<a href="http://Wa.me/595983186566?text=.Hola 👋" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 💰 DONAR 💰`
