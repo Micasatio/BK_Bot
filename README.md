@@ -6,6 +6,7 @@
 <a href="http://Wa.me/595983186566?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
+<img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Dame Una Estrella Porfa <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px">
 ### `—◉ 🥵 BOT OFICIAL 🥵`
 <a href="http://Wa.me/595983186566?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > # No spamear comandos
