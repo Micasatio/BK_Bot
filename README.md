@@ -49,6 +49,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf session.data.json
 > npm start
 ```
+<div align="center">
+<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
+
 
 ## `🔰 EDITOR Y PORPIETARIO DEL BOT 🔰` 
 <a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="Micasatio"/></a>
