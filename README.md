@@ -1,5 +1,7 @@
 # 👻 BLACK_BOT-MD 👻
 
+<img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="200px">
+
 ### ` —◉ 😈 DUDAS SOBRE EL BOT?, CONTACTAME 😈`
 <a href="http://Wa.me/595983186566?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
