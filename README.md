@@ -9,6 +9,7 @@
 ### `—◉ 🥵 BOT OFICIAL 🥵`
 <a href="http://Wa.me/595983186566?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > # No spamear comandos
+<img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="98px">
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
