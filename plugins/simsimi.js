@@ -7,5 +7,5 @@ if (json.success) m.reply(json.success)
 else throw json }
 handler.help = ['simsimi']
 handler.tags = ['general']
-handler.command = ['bot', 'simi', 'simsimi'] 
+handler.command = ['black', 'simi', 'simsimi'] 
 module.exports = handler
