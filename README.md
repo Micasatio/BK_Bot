@@ -61,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 En caso que este Apagado el Bot sin salir de la carpeta del Bot, use este comando ```npm start```
 
 * Cómo puedo hacer el Bot Owner?
-> Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/Micasatio-Li/BK_Bot-Termux/blob/master/config.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/GataNina-Li/GataBotMD-Termux/fork)
+> Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/Micasatio-Li/BK_Bot-Termux/blob/master/config.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/Micasatio/BK_Bot/fork)
 ----
 
 
