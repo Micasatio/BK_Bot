@@ -1,4 +1,4 @@
-console.log('✅ㅤIniciando el bot más tercermundista del mundo UwU')
+console.log('✅ㅤIniciando el bot más tercermundista del mundo UwU  Real hasta la muerde BABy')
 
 let cluster = require('cluster')
 let path = require('path')
@@ -54,7 +54,7 @@ function start(file) {
   })
   p.on('exit', code => {
     isRunning = false
-    console.error('❎ㅤOcurrio un error inesperado:', code)
+    console.error('❎ La puta currio un error inesperado:', code)
     p.kill()
     isRunning = false
     start.apply(this, arguments)
