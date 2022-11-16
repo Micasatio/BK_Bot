@@ -76,7 +76,7 @@ let menu = `
 `.trim()
 let buttons = [
 { buttonId: '#owner', buttonText: { displayText: '💫 𝐎𝐖𝐍𝐄𝐑 💫' }, type: 1 },
-{ buttonId: '#invocar', buttonText: { displayText: '🥵Molestar🥵' }, type: 1 },
+{ buttonId: '#play el tren de pamela Monchi papa', buttonText: { displayText: 'Si' }, type: 1 },
 { buttonId: '#dog', buttonText: { displayText: '😸 Un Gatito 😸' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
