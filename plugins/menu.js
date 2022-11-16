@@ -91,7 +91,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 Black_Bot 👑',
+title: '👑 Black_Bot aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa👑',
 body: null,
 thumbnail: fs.readFileSync('./src/logo.png'),
 sourceUrl: ``
