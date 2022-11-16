@@ -34,7 +34,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-
+<img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="49px">
 
 ### `—◉ 🔶 ACTIVAR EN CASO DE DETENERSE 🔶`
 ```bash
@@ -63,7 +63,18 @@ En caso que este Apagado el Bot sin salir de la carpeta del Bot, use este comand
 * Cómo puedo hacer el Bot Owner?
 > Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/Micasatio-Li/BK_Bot-Termux/blob/master/config.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/Micasatio/BK_Bot/fork)
 ----
-
+### SOBRE BLACK_BOT <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
+```bash
+> SOLO AQUÍ SE HACE LAS ACTUALIZACIONES OFICIALES DE Black_Bot
+> LA VERSIÓN DEL BOT DETERMINA LAS ACTUALIZACIONES EXISTENTES 
+> EN CASO QUE ENCUENTRES UN ERROR O FALLA ESCRÍBEME AL WhatsApp 
+> SI SE PRESENTA ERRORES AL USAR EL BOT USE EL COMANDO /REPORTE PARA QUE LA PROPIETARIO LO SOLUCIONE
+> EL BOT FUNCIONA EN WHATSAPP MESSAGE Y WHATSAPP BUSINESS 
+> SI HACES MODIFICACIONES, POR FAVOR DEJA CREDITOS DEL REPOSITORIO
+> FUNCIONA EL BOT INCLUSO CUANDO EL NÚMERO NO TIENE INTERNET 
+> USAR EL COMANDO /ADD O /SACAR PUEDE HACER QUE EL NÚMERO VAYA AL SOPORTE
+> PUEDE ESTAR HASTA 50 GRUPOS, SI EL NÚMERO ES MAYOR, PUEDE HABER SATURACIÓN 
+```
 
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
@@ -72,4 +83,4 @@ En caso que este Apagado el Bot sin salir de la carpeta del Bot, use este comand
 ## `🔰 EDITOR Y PORPIETARIO DEL BOT 🔰` 
 <a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="Micasatio"/></a>
 
-> # Black_Bot _ By SNT
+> Black_Bot _ By *SNT* y *Alexis*
