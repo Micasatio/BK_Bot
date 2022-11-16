@@ -52,6 +52,19 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf session.data.json
 > npm start
 ```
+# 😩 Preguntas 😩
+* Cómo detengo el Bot en Termux?
+> Use CTRL + z para apagar el Bot
+
+* Cómo enciendo el Bot en termux?
+> En caso que vuelva a iniciar en termux use este comando ```cd BK_Bot & npm start```
+En caso que este Apagado el Bot sin salir de la carpeta del Bot, use este comando ```npm start```
+
+* Cómo puedo hacer el Bot Owner?
+> Debe de ingresar al archivo `config.js` o también [`Aquí`](https://github.com/Micasatio-Li/BK_Bot-Termux/blob/master/config.js) luego añadir su número en donde diga `global.owner` Recuerde que requiere de hacer una Bifurcación, puede hacerla [`Aquí`](https://github.com/GataNina-Li/GataBotMD-Termux/fork)
+----
+
+
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
 
