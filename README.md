@@ -3,8 +3,10 @@
 <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="200px">
 
 ### ` —◉ 😈 DUDAS SOBRE EL BOT?, CONTACTANOS 😈`
-<a href="http://Wa.me/595983186566?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-SNT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="http://Wa.me/524531106422?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-Alexis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://Wa.me/595983186566?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-SNT OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+
+
+<a href="http://Wa.me/524531106422?text=Hola Bro 👻" target="blank"><img src="https://img.shields.io/badge/-Alexis OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NINGUNO DE LOS NUMEROS SON BOTS 
 
 <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Dame Una Estrella Porfa <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px">
