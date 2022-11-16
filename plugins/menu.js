@@ -91,10 +91,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 Black_Bot aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa👑',
+title: '👑 Black_Bot 👑',
 body: null,
 thumbnail: fs.readFileSync('./src/logo.png'),
-sourceUrl: ``
+sourceUrl: `Pornhub.com`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
