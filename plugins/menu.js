@@ -8,7 +8,7 @@ let menu = `
 ║➤ *✨𝗛ola, ${taguser} ¿cómo está? Espero que bien :)*
 ║➤ *Versión Del Bot* : 1.2
 ║➤ *Usuario* ${taguser}
-║➤ *Prefijo Usado:*  _${usedPrefix}
+║➤ *Prefijo Usado:*  ${usedPrefix}
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
@@ -94,7 +94,7 @@ mediaUrl: null,
 title: '👑 Black_Bot 👑',
 body: null,
 thumbnail: fs.readFileSync('./src/logo.png'),
-sourceUrl: `https://github.com/Micasatio/BK_Bot`
+sourceUrl: ``
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
