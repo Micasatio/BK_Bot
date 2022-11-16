@@ -77,7 +77,7 @@ let menu = `
 let buttons = [
 { buttonId: '#owner', buttonText: { displayText: '💫 𝐎𝐖𝐍𝐄𝐑 💫' }, type: 1 },
 { buttonId: '#black que hora es?', buttonText: { displayText: ' 🕗 Que Hora es ? 🕗' }, type: 1 },
-{ buttonId: '#black sale chape ?', buttonText: { displayText: ' 😏 Sale Chape ? 😏 ' }, type: 1 }]
+{ buttonId: '#black cogemos ?', buttonText: { displayText: ' 😏 Cogemos ? 😏 ' }, type: 1 }]
 let buttonMessage = {
 image: fs.readFileSync('./Menu2.jpg'),
 caption: menu.trim(),
